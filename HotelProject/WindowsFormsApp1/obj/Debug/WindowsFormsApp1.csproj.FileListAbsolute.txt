@@ -15,3 +15,5 @@ C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\
 C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
 C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Book.resources
 C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.info.resources
+C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources

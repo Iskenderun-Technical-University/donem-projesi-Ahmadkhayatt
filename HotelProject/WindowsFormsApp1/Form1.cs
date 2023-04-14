@@ -31,6 +31,9 @@ namespace WindowsFormsApp1
             panel2.Top = guna2Button1.Top;
             //home1.BringToFront();
             home1.Visible = true;
+            book1.Visible = false;
+            login1.Visible=false;
+            
             
             
 
@@ -41,6 +44,8 @@ namespace WindowsFormsApp1
         {
             panel2.Height = guna2Button2.Height;
             panel2.Top = guna2Button2.Top;
+            book1.Visible=true;
+            login1.Visible = false;
             home1.Visible = false;
             
             //book1.BringToFront();
@@ -53,6 +58,10 @@ namespace WindowsFormsApp1
         {
             panel2.Height = guna2Button4.Height;
             panel2.Top = guna2Button4.Top;
+
+            home1.Visible=false;
+            book1.Visible=false;
+            login1.Visible = true;
         }
 
         private void guna2Button5_Click(object sender, EventArgs e)

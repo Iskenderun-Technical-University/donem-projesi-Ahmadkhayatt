@@ -31,17 +31,18 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.book1 = new WindowsFormsApp1.book();
             this.home1 = new WindowsFormsApp1.Home();
-            this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
+            this.login1 = new WindowsFormsApp1.login();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             this.SuspendLayout();
@@ -64,6 +65,26 @@
             this.panel1.Size = new System.Drawing.Size(208, 619);
             this.panel1.TabIndex = 0;
             // 
+            // guna2Button3
+            // 
+            this.guna2Button3.Animated = true;
+            this.guna2Button3.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button3.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button3.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button3.ForeColor = System.Drawing.Color.White;
+            this.guna2Button3.Image = global::WindowsFormsApp1.Properties.Resources.exit__1_;
+            this.guna2Button3.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button3.Location = new System.Drawing.Point(22, 553);
+            this.guna2Button3.Name = "guna2Button3";
+            this.guna2Button3.Size = new System.Drawing.Size(183, 45);
+            this.guna2Button3.TabIndex = 3;
+            this.guna2Button3.Text = "Exit";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -82,24 +103,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(18, 46);
             this.panel2.TabIndex = 1;
-            // 
-            // panel3
-            // 
-            this.panel3.AutoScroll = true;
-            this.panel3.Controls.Add(this.book1);
-            this.panel3.Controls.Add(this.home1);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(208, 0);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(918, 619);
-            this.panel3.TabIndex = 1;
-            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
-            // 
-            // guna2BorderlessForm1
-            // 
-            this.guna2BorderlessForm1.ContainerControl = this;
-            this.guna2BorderlessForm1.DockIndicatorTransparencyValue = 0.6D;
-            this.guna2BorderlessForm1.TransparentWhileDrag = true;
             // 
             // guna2Button5
             // 
@@ -185,6 +188,19 @@
             this.guna2Button1.Text = "Home";
             this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click_1);
             // 
+            // panel3
+            // 
+            this.panel3.AutoScroll = true;
+            this.panel3.Controls.Add(this.login1);
+            this.panel3.Controls.Add(this.book1);
+            this.panel3.Controls.Add(this.home1);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.Location = new System.Drawing.Point(208, 0);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(918, 619);
+            this.panel3.TabIndex = 1;
+            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
+            // 
             // book1
             // 
             this.book1.AutoScroll = true;
@@ -202,25 +218,19 @@
             this.home1.Size = new System.Drawing.Size(918, 619);
             this.home1.TabIndex = 0;
             // 
-            // guna2Button3
+            // guna2BorderlessForm1
             // 
-            this.guna2Button3.Animated = true;
-            this.guna2Button3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button3.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button3.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.guna2Button3.ForeColor = System.Drawing.Color.White;
-            this.guna2Button3.Image = global::WindowsFormsApp1.Properties.Resources.exit__1_;
-            this.guna2Button3.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button3.Location = new System.Drawing.Point(22, 553);
-            this.guna2Button3.Name = "guna2Button3";
-            this.guna2Button3.Size = new System.Drawing.Size(183, 45);
-            this.guna2Button3.TabIndex = 3;
-            this.guna2Button3.Text = "Exit";
-            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
+            this.guna2BorderlessForm1.ContainerControl = this;
+            this.guna2BorderlessForm1.DockIndicatorTransparencyValue = 0.6D;
+            this.guna2BorderlessForm1.TransparentWhileDrag = true;
+            // 
+            // login1
+            // 
+            this.login1.Location = new System.Drawing.Point(0, 0);
+            this.login1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.login1.Name = "login1";
+            this.login1.Size = new System.Drawing.Size(918, 619);
+            this.login1.TabIndex = 2;
             // 
             // Form1
             // 
@@ -257,6 +267,7 @@
         private System.Windows.Forms.Label label1;
         private book book1;
         private Guna.UI2.WinForms.Guna2Button guna2Button3;
+        private login login1;
     }
 }
 

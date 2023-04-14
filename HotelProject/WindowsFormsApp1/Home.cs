@@ -36,9 +36,14 @@ namespace WindowsFormsApp1
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            Program.book1.Show();
+           // this.Hide();
+
+            Program.book1.Show() ;
+           // Program.home.Hide();
+            //Program.login1.Visible = false;
+           // Program.home.Visible = false;
             
-            this.Hide();
+            
             
         }
 

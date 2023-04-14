@@ -10,6 +10,8 @@ namespace WindowsFormsApp1
     {
         public static Home home ;
         public static book book1 ;
+        public static login login1 ;
+        public static admin admin1 ;
 
 
         /// <summary>
@@ -22,6 +24,9 @@ namespace WindowsFormsApp1
             Application.SetCompatibleTextRenderingDefault(false);
             home = new Home();
             book1 = new book();
+            login1 = new login();
+            admin1 = new admin();
+             
             
             Application.Run(new Form1());
         }
