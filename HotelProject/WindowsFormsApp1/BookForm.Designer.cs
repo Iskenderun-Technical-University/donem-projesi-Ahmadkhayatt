@@ -141,6 +141,7 @@
             this.guna2Button3.Size = new System.Drawing.Size(137, 45);
             this.guna2Button3.TabIndex = 5;
             this.guna2Button3.Text = "Book";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
             // label12
             // 
@@ -186,7 +187,8 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::WindowsFormsApp1.Properties.Resources._151470165;
+            this.pictureBox3.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._151470165;
+            this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Location = new System.Drawing.Point(0, 0);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(298, 227);
@@ -235,6 +237,7 @@
             this.guna2Button2.Size = new System.Drawing.Size(137, 45);
             this.guna2Button2.TabIndex = 5;
             this.guna2Button2.Text = "Book";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // label7
             // 
@@ -280,7 +283,8 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::WindowsFormsApp1.Properties.Resources._88009179;
+            this.pictureBox2.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._88009179;
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox2.Location = new System.Drawing.Point(0, 0);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(298, 227);
@@ -425,6 +429,7 @@
             this.guna2Button6.Size = new System.Drawing.Size(137, 45);
             this.guna2Button6.TabIndex = 5;
             this.guna2Button6.Text = "Book";
+            this.guna2Button6.Click += new System.EventHandler(this.guna2Button6_Click);
             // 
             // label27
             // 
@@ -470,7 +475,8 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = global::WindowsFormsApp1.Properties.Resources._405932243;
+            this.pictureBox6.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._405932243;
+            this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox6.Location = new System.Drawing.Point(0, 0);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(298, 227);
@@ -519,6 +525,7 @@
             this.guna2Button5.Size = new System.Drawing.Size(137, 45);
             this.guna2Button5.TabIndex = 5;
             this.guna2Button5.Text = "Book";
+            this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click);
             // 
             // label22
             // 
@@ -564,7 +571,8 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::WindowsFormsApp1.Properties.Resources._405931796;
+            this.pictureBox5.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._405931796;
+            this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox5.Location = new System.Drawing.Point(0, 0);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(298, 227);
@@ -613,6 +621,7 @@
             this.guna2Button4.Size = new System.Drawing.Size(137, 45);
             this.guna2Button4.TabIndex = 5;
             this.guna2Button4.Text = "Book";
+            this.guna2Button4.Click += new System.EventHandler(this.guna2Button4_Click);
             // 
             // label17
             // 
@@ -658,7 +667,8 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::WindowsFormsApp1.Properties.Resources._404668087;
+            this.pictureBox4.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._404668087;
+            this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox4.Location = new System.Drawing.Point(0, 0);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(298, 227);
@@ -707,6 +717,7 @@
             this.guna2Button7.Size = new System.Drawing.Size(137, 45);
             this.guna2Button7.TabIndex = 5;
             this.guna2Button7.Text = "Book";
+            this.guna2Button7.Click += new System.EventHandler(this.guna2Button7_Click);
             // 
             // label32
             // 
@@ -752,7 +763,8 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = global::WindowsFormsApp1.Properties.Resources._97506308;
+            this.pictureBox7.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._97506308;
+            this.pictureBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox7.Location = new System.Drawing.Point(0, 0);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(298, 227);
