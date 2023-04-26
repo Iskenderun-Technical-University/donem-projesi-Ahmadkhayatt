@@ -39,12 +39,8 @@
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.book1 = new WindowsFormsApp1.book();
-            this.home1 = new WindowsFormsApp1.Home();
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
-            this.login1 = new WindowsFormsApp1.login();
             this.panel1.SuspendLayout();
-            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -191,46 +187,17 @@
             // panel3
             // 
             this.panel3.AutoScroll = true;
-            this.panel3.Controls.Add(this.login1);
-            this.panel3.Controls.Add(this.book1);
-            this.panel3.Controls.Add(this.home1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel3.Location = new System.Drawing.Point(208, 0);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(918, 619);
             this.panel3.TabIndex = 1;
-            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
-            // 
-            // book1
-            // 
-            this.book1.AutoScroll = true;
-            this.book1.Location = new System.Drawing.Point(0, 0);
-            this.book1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.book1.Name = "book1";
-            this.book1.Size = new System.Drawing.Size(918, 619);
-            this.book1.TabIndex = 1;
-            // 
-            // home1
-            // 
-            this.home1.Location = new System.Drawing.Point(0, 0);
-            this.home1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.home1.Name = "home1";
-            this.home1.Size = new System.Drawing.Size(918, 619);
-            this.home1.TabIndex = 0;
             // 
             // guna2BorderlessForm1
             // 
             this.guna2BorderlessForm1.ContainerControl = this;
             this.guna2BorderlessForm1.DockIndicatorTransparencyValue = 0.6D;
             this.guna2BorderlessForm1.TransparentWhileDrag = true;
-            // 
-            // login1
-            // 
-            this.login1.Location = new System.Drawing.Point(0, 0);
-            this.login1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.login1.Name = "login1";
-            this.login1.Size = new System.Drawing.Size(918, 619);
-            this.login1.TabIndex = 2;
             // 
             // Form1
             // 
@@ -248,7 +215,6 @@
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.panel3.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -259,15 +225,12 @@
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2Button guna2Button5;
         private Guna.UI2.WinForms.Guna2Button guna2Button4;
-        private Guna.UI2.WinForms.Guna2Button guna2Button2;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Panel panel3;
         private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
-        private Home home1;
         private System.Windows.Forms.Label label1;
-        private book book1;
         private Guna.UI2.WinForms.Guna2Button guna2Button3;
-        private login login1;
+        public System.Windows.Forms.Panel panel3;
+        public System.Windows.Forms.Panel panel2;
+        public Guna.UI2.WinForms.Guna2Button guna2Button2;
     }
 }
 

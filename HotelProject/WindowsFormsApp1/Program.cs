@@ -8,27 +8,35 @@ namespace WindowsFormsApp1
 {
     internal static class Program
     {
-        public static Home home ;
-        public static book book1 ;
-        public static login login1 ;
+        public static HomeForm home ;
+        public static BookForm book1 ;
+        public static LoginForm login1 ;
         public static admin admin1 ;
+        public static LoginForm loginForm1 ;
+        public static Form1 form1 ;
+        public static about about1 ;
+        
 
 
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
+       [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            home = new Home();
-            book1 = new book();
-            login1 = new login();
+            home = new HomeForm();
+            book1 = new BookForm();
+            login1 = new LoginForm();
             admin1 = new admin();
+            loginForm1 = new LoginForm();
+            admin1 = new admin();
+            form1  = new Form1();
+            about1 = new about();
              
             
-            Application.Run(new Form1());
+            Application.Run(form1);
         }
     }
 }

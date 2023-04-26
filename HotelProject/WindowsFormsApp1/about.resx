@@ -117,4 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>At  Hotel.Sharp Group we strive to be the first choice in the mind of guests, owners and talent. In our journey to achieve this, we practice strong beliefs and actions that respect the diversity of people, the community, ethics and the planet.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Our team is committed to extra thoughtful care and is passionate about delivering an amazing hotel experience. While each of our team members at Hotel.Sharp Group plays a unique role, they all serve as brand ambassadors working to deliver memorable moments and turn guests into passionate brand advocates.</value>
+  </data>
 </root>

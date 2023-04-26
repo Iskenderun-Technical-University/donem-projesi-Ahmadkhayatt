@@ -17,3 +17,43 @@ C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\
 C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.info.resources
 C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
 C:\Users\ahmad\Desktop\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.info.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.book.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookForm.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomeForm.resources
+C:\Users\ahmad\Desktop\copies projects\New folder\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookForm.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomeForm.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmad\Desktop\The Last One The Worked One\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.about.resources

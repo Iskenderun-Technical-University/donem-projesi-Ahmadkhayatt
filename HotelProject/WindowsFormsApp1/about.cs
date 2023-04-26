@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class info : Form
+    public partial class about : Form
     {
-        public info()
+        public about()
         {
             InitializeComponent();
-        }
-
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button2_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
