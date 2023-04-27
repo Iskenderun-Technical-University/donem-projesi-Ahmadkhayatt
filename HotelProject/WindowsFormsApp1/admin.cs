@@ -21,26 +21,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void guna2Button2_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        private void guna2Button3_Click(object sender, EventArgs e)
-        {
-
-            if (x > 1)
-            {
-                --x;
-                counter.Text = Convert.ToString(x);
-                toplam = x * Int32.Parse(hafiz);
-                popPrice.Text = Convert.ToString(toplam);
-                counter.Text = x.ToString();
-            }
-
-
-        }
-        private void guna2Button4_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             x++;
             //hafiz string is coming from price lable 
@@ -49,6 +30,36 @@ namespace WindowsFormsApp1
 
             popPrice.Text = Convert.ToString(toplam);
             counter.Text = x.ToString();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (x > 1)
+            {
+                --x;
+                counter.Text = Convert.ToString(x);
+                toplam = x * Int32.Parse(hafiz);
+                popPrice.Text = Convert.ToString(toplam);
+                counter.Text = x.ToString();
+            }
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+
+           
+
+
+        }
+        private void guna2Button4_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }
