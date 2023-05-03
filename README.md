@@ -18,7 +18,7 @@ Uygulama, bir günlüğüne oda ayırtmak isteyen bir kullanıcı hakkındadır,
 3-First_name<br>
 4-Last_name <br>
 5-email<br>
-6-gender<br
+6-gender<br>
 7-stay_days<br>
 8-price<br>
 
