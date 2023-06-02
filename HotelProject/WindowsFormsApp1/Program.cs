@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace WindowsFormsApp1
 {
@@ -15,8 +16,8 @@ namespace WindowsFormsApp1
         public static LoginForm loginForm1 ;
         public static Form1 form1 ;
         public static about about1 ;
-        
 
+        public static SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\ahmad\Desktop\1321465\donem-projesi-Ahmadkhayatt\HotelProject\WindowsFormsApp1\Database1.mdf;Integrated Security=True");
 
         /// <summary>
         /// The main entry point for the application.
